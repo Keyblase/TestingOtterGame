@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otter", "..\..\..\Downloads\Otter-master\Otter\Otter.csproj", "{236485C2-A7BA-4DCD-808A-B3A634764402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLevels", "Game\GameLevels.csproj", "{B2D4627A-46A9-429F-A169-B8BBF692CE94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLevels", "..\GameOtter\JamUc9.2\GameLevels.csproj", "{B2D4627A-46A9-429F-A169-B8BBF692CE94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
